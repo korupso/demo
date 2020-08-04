@@ -1,4 +1,7 @@
 import { Component, OnInit, ViewChild, ElementRef, Input } from '@angular/core';
+
+import { Platform } from '@ionic/angular';
+
 import { MapService } from '../map.service';
 
 declare var H: any;
@@ -21,12 +24,14 @@ export class HereMapComponent implements OnInit {
   @Input()
   public appCode: string;
 
-  public constructor(public mapService: MapService) { }
+  public constructor(public mapService: MapService, private platform: Platform) { }
 
   public ngOnInit() { }
 
   public ngAfterViewInit() {
-    this.mapService.mapElement = this.mapElement;
-    this.mapService.resetMap();
+    this.platform.ready().then(state => {
+      this.mapService.mapElement = this.mapElement;
+      this.mapService.resetMap();
+    });
   }
 }

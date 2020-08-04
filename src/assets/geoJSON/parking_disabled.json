@@ -1,0 +1,8252 @@
+{
+	"type": "FeatureCollection",
+	"name": "taz.behindertenparkplaetze_dav_p",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5946585852,
+					47.4044142285
+				]
+			},
+			"properties": {
+				"Adresse": "Ueberlandstrasse 460",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205567",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5945972389,
+					47.4044343849
+				]
+			},
+			"properties": {
+				"Adresse": "Ueberlandstrasse 460",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205568",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5173855727,
+					47.3856068597
+				]
+			},
+			"properties": {
+				"Adresse": "Hardstrasse 210",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205707",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5442452154,
+					47.4096965739
+				]
+			},
+			"properties": {
+				"Adresse": "Querstrasse 16",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192656",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5442809794,
+					47.4097055417
+				]
+			},
+			"properties": {
+				"Adresse": "Querstrasse 16",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192657",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5539211575,
+					47.4089399066
+				]
+			},
+			"properties": {
+				"Adresse": "Greifenseestrasse 10a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192659",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4858196898,
+					47.3846429586
+				]
+			},
+			"properties": {
+				"Adresse": "Zwyssigstrasse 2",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192662",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4882869127,
+					47.3899703259
+				]
+			},
+			"properties": {
+				"Adresse": "Bristenstrasse 17",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192664",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5574591159,
+					47.358312723
+				]
+			},
+			"properties": {
+				"Adresse": "Mühlebachstrasse 137",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192666",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5543138797,
+					47.3700631439
+				]
+			},
+			"properties": {
+				"Adresse": "Wilfriedstrasse 5",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192668",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5017470185,
+					47.3614334728
+				]
+			},
+			"properties": {
+				"Adresse": "Friesenberghalde 8",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192672",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.501921148,
+					47.3613201234
+				]
+			},
+			"properties": {
+				"Adresse": "Friesenberghalde 3",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192674",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5207961586,
+					47.3644143497
+				]
+			},
+			"properties": {
+				"Adresse": "Uetlibergstrasse 25",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192676",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5098330143,
+					47.3777607289
+				]
+			},
+			"properties": {
+				"Adresse": "Zurlindenstrasse 302",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192678",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5287141286,
+					47.4110939631
+				]
+			},
+			"properties": {
+				"Adresse": "Regensbergstrasse 262",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192466",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5443787388,
+					47.4073538572
+				]
+			},
+			"properties": {
+				"Adresse": "Regensbergstrasse 123",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192467",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.559393557,
+					47.4144143352
+				]
+			},
+			"properties": {
+				"Adresse": "Dialogweg 11",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "205521",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5471147062,
+					47.4195914395
+				]
+			},
+			"properties": {
+				"Adresse": "Schaffhauserstrasse 465",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "175893",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5283304816,
+					47.379977526
+				]
+			},
+			"properties": {
+				"Adresse": "Lagerstrasse 121",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205944",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4776598391,
+					47.3851328895
+				]
+			},
+			"properties": {
+				"Adresse": "Stampfenbrunnenstrasse 43",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "19883",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5619327777,
+					47.4145549996
+				]
+			},
+			"properties": {
+				"Adresse": "Genossenschaftsstrasse 16",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205466",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.516189037,
+					47.4001629436
+				]
+			},
+			"properties": {
+				"Adresse": "Waidbadstrasse 53",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205990",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5598178737,
+					47.4134640927
+				]
+			},
+			"properties": {
+				"Adresse": "Dialogweg 3",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205458",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5620462621,
+					47.4145686037
+				]
+			},
+			"properties": {
+				"Adresse": "Genossenschaftsstrasse 16a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205467",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5621520406,
+					47.4145800069
+				]
+			},
+			"properties": {
+				"Adresse": "Genossenschaftsstrasse 16a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205468",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4985027373,
+					47.3667626907
+				]
+			},
+			"properties": {
+				"Adresse": "Birmensdorferstrasse 497c",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206148",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5064810748,
+					47.3676411921
+				]
+			},
+			"properties": {
+				"Adresse": "Im Heuried 74",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206179",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5615142253,
+					47.4147841586
+				]
+			},
+			"properties": {
+				"Adresse": "Hagenholzstrasse 108a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "205509",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4903073825,
+					47.3905402016
+				]
+			},
+			"properties": {
+				"Adresse": "Hohlstrasse 552",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "171678",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5351630947,
+					47.4009914819
+				]
+			},
+			"properties": {
+				"Adresse": "Brunnenhofstrasse 9",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206099",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5013549328,
+					47.3665050881
+				]
+			},
+			"properties": {
+				"Adresse": "Schweigmatt 50",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "175354",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5253856847,
+					47.3686965885
+				]
+			},
+			"properties": {
+				"Adresse": "Manessestrasse 1",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "172429",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.512837789,
+					47.4205481535
+				]
+			},
+			"properties": {
+				"Adresse": "Fronwaldstrasse 94",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "173058",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5127588286,
+					47.420575872
+				]
+			},
+			"properties": {
+				"Adresse": "Fronwaldstrasse 94",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "173060",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5355029023,
+					47.3556873487
+				]
+			},
+			"properties": {
+				"Adresse": "Mythenquai 88v",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "197635",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5354892977,
+					47.3556694875
+				]
+			},
+			"properties": {
+				"Adresse": "Mythenquai 88v",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "197636",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5064781641,
+					47.4212588164
+				]
+			},
+			"properties": {
+				"Adresse": "Bachmannweg 1a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205971",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4892389073,
+					47.3912208425
+				]
+			},
+			"properties": {
+				"Adresse": "Hohlstrasse 559",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "199303",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5475428243,
+					47.391207743
+				]
+			},
+			"properties": {
+				"Adresse": "Schanzackerstrasse 21",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "197038",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5183601257,
+					47.3865310794
+				]
+			},
+			"properties": {
+				"Adresse": "Hardstrasse 227",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "199536",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5182735475,
+					47.3864461735
+				]
+			},
+			"properties": {
+				"Adresse": "Hardstrasse 227",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "199537",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4845473964,
+					47.3931800374
+				]
+			},
+			"properties": {
+				"Adresse": "Vulkanstrasse 108b",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "206252",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5927246163,
+					47.4050709411
+				]
+			},
+			"properties": {
+				"Adresse": "Ueberlandstrasse 446",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "199684",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5926718243,
+					47.4050804634
+				]
+			},
+			"properties": {
+				"Adresse": "Ueberlandstrasse 446",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "199685",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4902947404,
+					47.3905211578
+				]
+			},
+			"properties": {
+				"Adresse": "Hohlstrasse 552",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "194961",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5277296123,
+					47.3763103509
+				]
+			},
+			"properties": {
+				"Adresse": "Molkenstrasse 5",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "198707",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4945230748,
+					47.3825712138
+				]
+			},
+			"properties": {
+				"Adresse": "Flüelastrasse 28a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206488",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4944984438,
+					47.3825475683
+				]
+			},
+			"properties": {
+				"Adresse": "Flüelastrasse 28a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206489",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5358050211,
+					47.3775069389
+				]
+			},
+			"properties": {
+				"Adresse": "Kasernenstrasse 100",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206496",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5362596551,
+					47.377937621
+				]
+			},
+			"properties": {
+				"Adresse": "Kasernenstrasse 101",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206497",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5403137408,
+					47.3659542256
+				]
+			},
+			"properties": {
+				"Adresse": "Bürkliplatz 12",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191709",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5304324714,
+					47.3687187639
+				]
+			},
+			"properties": {
+				"Adresse": "Gerechtigkeitsgasse 31",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191711",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.538579042,
+					47.3656787499
+				]
+			},
+			"properties": {
+				"Adresse": "Claridenstrasse 2",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191715",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5411258182,
+					47.3754768642
+				]
+			},
+			"properties": {
+				"Adresse": "Bahnhofquai 3a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191720",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5311843769,
+					47.364196215
+				]
+			},
+			"properties": {
+				"Adresse": "Tessinerplatz 11",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191722",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5274708316,
+					47.3389592903
+				]
+			},
+			"properties": {
+				"Adresse": "Balberstrasse 47",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191724",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5250392984,
+					47.3594369479
+				]
+			},
+			"properties": {
+				"Adresse": "Engimattstrasse 17",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191726",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5167976579,
+					47.3290183035
+				]
+			},
+			"properties": {
+				"Adresse": "Hüslibachstrasse 98",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191728",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5709340901,
+					47.3819894681
+				]
+			},
+			"properties": {
+				"Adresse": "Zürichbergstrasse 175a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187071",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5710273268,
+					47.3819078405
+				]
+			},
+			"properties": {
+				"Adresse": "Zürichbergstrasse 175a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187073",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5693873813,
+					47.3823530275
+				]
+			},
+			"properties": {
+				"Adresse": null,
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187076",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5692449948,
+					47.3823435819
+				]
+			},
+			"properties": {
+				"Adresse": null,
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187078",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5688938822,
+					47.3822809302
+				]
+			},
+			"properties": {
+				"Adresse": null,
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187081",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5498790144,
+					47.3604875433
+				]
+			},
+			"properties": {
+				"Adresse": "Mainaustrasse 24",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187084",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5489559736,
+					47.3767873026
+				]
+			},
+			"properties": {
+				"Adresse": "Rämistrasse 100",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "188742",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5250896928,
+					47.3699898202
+				]
+			},
+			"properties": {
+				"Adresse": "Schimmelstrasse 7",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187085",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5148723826,
+					47.3744084048
+				]
+			},
+			"properties": {
+				"Adresse": "Idaplatz 9",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187086",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5171358869,
+					47.3728637138
+				]
+			},
+			"properties": {
+				"Adresse": "Kalkbreitestrasse 78",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187088",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5148974906,
+					47.3743068347
+				]
+			},
+			"properties": {
+				"Adresse": "Idaplatz 9",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187089",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5357269666,
+					47.3594991676
+				]
+			},
+			"properties": {
+				"Adresse": "Mythenquai 60",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187090",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5358074902,
+					47.3595523737
+				]
+			},
+			"properties": {
+				"Adresse": "Mythenquai 60",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187091",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5556596779,
+					47.3696950244
+				]
+			},
+			"properties": {
+				"Adresse": "Freiestrasse 55",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187092",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5341455474,
+					47.3637864716
+				]
+			},
+			"properties": {
+				"Adresse": "Jenatschstrasse 3",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187093",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5738973822,
+					47.3553367422
+				]
+			},
+			"properties": {
+				"Adresse": "Russenweg 39",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187095",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5747403734,
+					47.3843622293
+				]
+			},
+			"properties": {
+				"Adresse": "Zürichbergstrasse 221",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187096",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5747539984,
+					47.3843800857
+				]
+			},
+			"properties": {
+				"Adresse": "Zürichbergstrasse 221",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187097",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5339661211,
+					47.3684629915
+				]
+			},
+			"properties": {
+				"Adresse": "Gartenstrasse 11",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187098",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5293201381,
+					47.3729447801
+				]
+			},
+			"properties": {
+				"Adresse": "Stauffacherstrasse 26",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187099",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5274212345,
+					47.3432361303
+				]
+			},
+			"properties": {
+				"Adresse": "Wachtelstrasse 17",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187101",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5279520903,
+					47.3833924338
+				]
+			},
+			"properties": {
+				"Adresse": "Neugasse 80",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187103",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.548984054,
+					47.3767227713
+				]
+			},
+			"properties": {
+				"Adresse": "Rämistrasse 100",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "188744",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5635119675,
+					47.4102466004
+				]
+			},
+			"properties": {
+				"Adresse": "Saatlenstrasse 240",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191914",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5509217583,
+					47.4041489898
+				]
+			},
+			"properties": {
+				"Adresse": "Gorwiden 2",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191917",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5358514575,
+					47.3569759214
+				]
+			},
+			"properties": {
+				"Adresse": "Mythenquai 75",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191924",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5358484897,
+					47.3570423382
+				]
+			},
+			"properties": {
+				"Adresse": "Mythenquai 75",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191926",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5744239192,
+					47.3838076403
+				]
+			},
+			"properties": {
+				"Adresse": "Zürichbergstrasse 196",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191928",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5743719116,
+					47.3838531274
+				]
+			},
+			"properties": {
+				"Adresse": "Zürichbergstrasse 219",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191930",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5743028294,
+					47.383718879
+				]
+			},
+			"properties": {
+				"Adresse": "Zürichbergstrasse 196",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191933",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5743978196,
+					47.3838258872
+				]
+			},
+			"properties": {
+				"Adresse": "Zürichbergstrasse 219",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191934",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5773107939,
+					47.3844088577
+				]
+			},
+			"properties": {
+				"Adresse": "Zürichbergstrasse 245",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191936",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5772069746,
+					47.3845088278
+				]
+			},
+			"properties": {
+				"Adresse": "Zürichbergstrasse 245",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191938",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5772198319,
+					47.3844907108
+				]
+			},
+			"properties": {
+				"Adresse": "Zürichbergstrasse 245",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191940",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5417258649,
+					47.3692169552
+				]
+			},
+			"properties": {
+				"Adresse": "Stadthausquai 17",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191945",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5725266479,
+					47.4048031673
+				]
+			},
+			"properties": {
+				"Adresse": "Herzogenmühlestrasse 5",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191947",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5442323028,
+					47.3682543543
+				]
+			},
+			"properties": {
+				"Adresse": "Limmatquai 7",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191949",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5325338862,
+					47.3843897227
+				]
+			},
+			"properties": {
+				"Adresse": "Ausstellungsstrasse 105",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191951",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5168573665,
+					47.3769026509
+				]
+			},
+			"properties": {
+				"Adresse": "Karl-Bürkli-Strasse 11",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191953",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5169432473,
+					47.3903603921
+				]
+			},
+			"properties": {
+				"Adresse": "Technoparkstrasse 7",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191955",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5348682782,
+					47.389345031
+				]
+			},
+			"properties": {
+				"Adresse": "Nordstrasse 103",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191960",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5593284319,
+					47.3535985408
+				]
+			},
+			"properties": {
+				"Adresse": "Wildbachstrasse 80",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191962",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5178457881,
+					47.373058151
+				]
+			},
+			"properties": {
+				"Adresse": "Zentralstrasse 74",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191964",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5222851854,
+					47.3570309123
+				]
+			},
+			"properties": {
+				"Adresse": "Allmendstrasse 2",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191966",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5074197268,
+					47.4186914707
+				]
+			},
+			"properties": {
+				"Adresse": "Wehntalerstrasse 535",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187837",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5537127152,
+					47.4091798192
+				]
+			},
+			"properties": {
+				"Adresse": "Kirchenackerweg 30",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187839",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5292115608,
+					47.3418384898
+				]
+			},
+			"properties": {
+				"Adresse": "Rainstrasse 6",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187841",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5146216179,
+					47.3757096
+				]
+			},
+			"properties": {
+				"Adresse": "Zentralstrasse 153",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187843",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5561134857,
+					47.4168835247
+				]
+			},
+			"properties": {
+				"Adresse": "Leutschenbachstrasse 52",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187845",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5489938753,
+					47.4225090768
+				]
+			},
+			"properties": {
+				"Adresse": "Katzenbachstrasse 16",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187847",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5436635814,
+					47.4090969039
+				]
+			},
+			"properties": {
+				"Adresse": "Gubelstrasse 36",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "187905",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5012732592,
+					47.3797664829
+				]
+			},
+			"properties": {
+				"Adresse": "Letzigraben 35",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206130",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5288266446,
+					47.3337382837
+				]
+			},
+			"properties": {
+				"Adresse": "Dangelstrasse 24",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205998",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5503740977,
+					47.3751647987
+				]
+			},
+			"properties": {
+				"Adresse": "Gloriastrasse 7",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "186368",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5194396128,
+					47.3884122986
+				]
+			},
+			"properties": {
+				"Adresse": "Hardstrasse 245",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "188040",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5756359528,
+					47.3533519583
+				]
+			},
+			"properties": {
+				"Adresse": "Forchstrasse 340",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206455",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5756146482,
+					47.3533246734
+				]
+			},
+			"properties": {
+				"Adresse": "Forchstrasse 340",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206456",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5755222366,
+					47.3534335503
+				]
+			},
+			"properties": {
+				"Adresse": "Forchstrasse 336",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206457",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5755009892,
+					47.3534089472
+				]
+			},
+			"properties": {
+				"Adresse": "Forchstrasse 336",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206458",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5754767391,
+					47.3533823619
+				]
+			},
+			"properties": {
+				"Adresse": "Forchstrasse 336",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206459",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4706652082,
+					47.3904623338
+				]
+			},
+			"properties": {
+				"Adresse": "Am Suteracher 44",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206407",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4959425175,
+					47.3976938451
+				]
+			},
+			"properties": {
+				"Adresse": "Hardhof 1",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "206409",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.6015559308,
+					47.3549850456
+				]
+			},
+			"properties": {
+				"Adresse": "Kienastenwiesweg 2",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "188286",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5597972495,
+					47.413535003
+				]
+			},
+			"properties": {
+				"Adresse": "Dialogweg 3",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205459",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5598426818,
+					47.4133886084
+				]
+			},
+			"properties": {
+				"Adresse": "Dialogweg 3",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205460",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5157658035,
+					47.3876729911
+				]
+			},
+			"properties": {
+				"Adresse": "Maschinenstrasse 13",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206439",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5160428605,
+					47.3989906469
+				]
+			},
+			"properties": {
+				"Adresse": "Emil-Klöti-Strasse 23",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "203838",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5528511809,
+					47.3763360911
+				]
+			},
+			"properties": {
+				"Adresse": "Gloriastrasse 31",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "203843",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4728708068,
+					47.3892640852
+				]
+			},
+			"properties": {
+				"Adresse": "Loogartenstrasse 31b",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "203849",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.497017287,
+					47.36740037
+				]
+			},
+			"properties": {
+				"Adresse": "Birmensdorferstrasse 489",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "203850",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4689847498,
+					47.3982690711
+				]
+			},
+			"properties": {
+				"Adresse": "Bernerstrasse 317",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "205045",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5126031455,
+					47.3938081234
+				]
+			},
+			"properties": {
+				"Adresse": "Hardturmstrasse 130",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "203073",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4873537821,
+					47.3782973724
+				]
+			},
+			"properties": {
+				"Adresse": "Flurstrasse 130",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "200835",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4873165395,
+					47.378256774
+				]
+			},
+			"properties": {
+				"Adresse": "Flurstrasse 130",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "200836",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5393498701,
+					47.3858276011
+				]
+			},
+			"properties": {
+				"Adresse": "Gallusstrasse 14",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "200854",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4965342211,
+					47.365944271
+				]
+			},
+			"properties": {
+				"Adresse": "Birmensdorferstrasse 495a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "200926",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5059844264,
+					47.3803299471
+				]
+			},
+			"properties": {
+				"Adresse": "Badenerstrasse 424",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "200928",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.53691893,
+					47.3964112505
+				]
+			},
+			"properties": {
+				"Adresse": "Spelteriniweg 7",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "200975",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4835751905,
+					47.4044724331
+				]
+			},
+			"properties": {
+				"Adresse": "Limmattalstrasse 371",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "200977",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5032439482,
+					47.4014277508
+				]
+			},
+			"properties": {
+				"Adresse": "Brunnwiesenstrasse 57",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "204094",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5067468384,
+					47.3771062816
+				]
+			},
+			"properties": {
+				"Adresse": "Albisriederstrasse 31a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "204106",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5536763292,
+					47.4093285618
+				]
+			},
+			"properties": {
+				"Adresse": "Kirchenackerweg 34",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "204109",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5606306236,
+					47.4143317144
+				]
+			},
+			"properties": {
+				"Adresse": "Hagenholzstrasse 106a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "201047",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.500029917,
+					47.4016547526
+				]
+			},
+			"properties": {
+				"Adresse": "Meierhofplatz 2",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "201059",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5619129522,
+					47.3777068762
+				]
+			},
+			"properties": {
+				"Adresse": "Toblerstrasse 91a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "203353",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5149485605,
+					47.4146650386
+				]
+			},
+			"properties": {
+				"Adresse": "Obsthaldenstrasse 163",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206486",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5149840425,
+					47.3907717377
+				]
+			},
+			"properties": {
+				"Adresse": "Gleisbogen 60",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "201140",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5422509514,
+					47.4162853377
+				]
+			},
+			"properties": {
+				"Adresse": "Eggbühlstrasse 28",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "201158",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4799809071,
+					47.4065956139
+				]
+			},
+			"properties": {
+				"Adresse": "Konrad-Ilg-Strasse 13",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206055",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5012359177,
+					47.379740111
+				]
+			},
+			"properties": {
+				"Adresse": "Letzigraben 40",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206129",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4828444832,
+					47.3879426162
+				]
+			},
+			"properties": {
+				"Adresse": "Feldblumenstrasse 7",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "204352",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5131669809,
+					47.3532285329
+				]
+			},
+			"properties": {
+				"Adresse": "Uetlibergstrasse 287",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "204359",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5169927009,
+					47.3634229875
+				]
+			},
+			"properties": {
+				"Adresse": "Binzallee 6",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "201205",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5468337417,
+					47.3781643025
+				]
+			},
+			"properties": {
+				"Adresse": "Clausiusstrasse 9",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "201219",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5489809762,
+					47.3792441854
+				]
+			},
+			"properties": {
+				"Adresse": "Spöndlistrasse 20c",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "201220",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5509355663,
+					47.3784095283
+				]
+			},
+			"properties": {
+				"Adresse": "Frauenklinikstrasse 10",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "201224",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5023264862,
+					47.4011149057
+				]
+			},
+			"properties": {
+				"Adresse": "Limmattalstrasse 150",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "201284",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5022918082,
+					47.4010462062
+				]
+			},
+			"properties": {
+				"Adresse": "Limmattalstrasse 150",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "201286",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4797466808,
+					47.3888018168
+				]
+			},
+			"properties": {
+				"Adresse": "Dachslernstrasse 35",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "203592",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5083924008,
+					47.4084627533
+				]
+			},
+			"properties": {
+				"Adresse": "Auguste-Piccard-Hof 5",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "203597",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5483997414,
+					47.3691516557
+				]
+			},
+			"properties": {
+				"Adresse": "Promenadengasse 19",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "203603",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.6028247406,
+					47.3646527935
+				]
+			},
+			"properties": {
+				"Adresse": "Im Hau 50a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "204429",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4997991513,
+					47.4027021898
+				]
+			},
+			"properties": {
+				"Adresse": "Gsteigstrasse 9",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "201372",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5525370362,
+					47.4141441939
+				]
+			},
+			"properties": {
+				"Adresse": "Hagenholzstrasse 20",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "201383",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.513865166,
+					47.3618752023
+				]
+			},
+			"properties": {
+				"Adresse": "Grubenstrasse 32a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "204564",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4895718606,
+					47.3908109153
+				]
+			},
+			"properties": {
+				"Adresse": "Hohlstrasse 554",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "203793",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4677384285,
+					47.3985838548
+				]
+			},
+			"properties": {
+				"Adresse": null,
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "204638",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5406102591,
+					47.3783683462
+				]
+			},
+			"properties": {
+				"Adresse": "Museumstrasse 1",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "199902",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5504957575,
+					47.3751859986
+				]
+			},
+			"properties": {
+				"Adresse": "Gloriastrasse 7",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "199976",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5158054352,
+					47.3929867436
+				]
+			},
+			"properties": {
+				"Adresse": "Hardturmstrasse 106",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "201518",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5563525678,
+					47.4105395921
+				]
+			},
+			"properties": {
+				"Adresse": "Wallisellenstrasse 96",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "201558",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5563790642,
+					47.4105393358
+				]
+			},
+			"properties": {
+				"Adresse": "Wallisellenstrasse 100",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "202310",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4992302571,
+					47.3655162765
+				]
+			},
+			"properties": {
+				"Adresse": "Marie-Heim-Vögtlin-Weg 60",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202322",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5460299497,
+					47.3868090079
+				]
+			},
+			"properties": {
+				"Adresse": "Stolzestrasse 9",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202464",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.549576375,
+					47.3828060142
+				]
+			},
+			"properties": {
+				"Adresse": "Vogelsangstrasse 18",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202466",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5211180238,
+					47.3892565872
+				]
+			},
+			"properties": {
+				"Adresse": "Hardstrasse 301",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202468",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5211903063,
+					47.3892742869
+				]
+			},
+			"properties": {
+				"Adresse": "Hardstrasse 301",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202470",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5790016231,
+					47.3673178578
+				]
+			},
+			"properties": {
+				"Adresse": "Degenriedstrasse 135",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202473",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5473906609,
+					47.371630205
+				]
+			},
+			"properties": {
+				"Adresse": "Hirschengraben 13",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202475",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5369695893,
+					47.3719646985
+				]
+			},
+			"properties": {
+				"Adresse": "Pelikanstrasse 10",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202477",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5497868407,
+					47.4103402096
+				]
+			},
+			"properties": {
+				"Adresse": "Thurgauerstrasse 7",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202479",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.536255275,
+					47.382287342
+				]
+			},
+			"properties": {
+				"Adresse": "Ausstellungsstrasse 39",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202481",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5361462043,
+					47.382366042
+				]
+			},
+			"properties": {
+				"Adresse": "Ausstellungsstrasse 41",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202483",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.528204236,
+					47.3825389308
+				]
+			},
+			"properties": {
+				"Adresse": "Röntgenstrasse 16",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202485",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5280297991,
+					47.3738317059
+				]
+			},
+			"properties": {
+				"Adresse": "St. Jakobstrasse 7",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202487",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.523039498,
+					47.3772748296
+				]
+			},
+			"properties": {
+				"Adresse": "Stauffacherstrasse 141",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202490",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5165511617,
+					47.380885765
+				]
+			},
+			"properties": {
+				"Adresse": "Ernastrasse 22",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202492",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.511883213,
+					47.3823403273
+				]
+			},
+			"properties": {
+				"Adresse": "Eichbühlstrasse 19",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202494",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5269164027,
+					47.3723773748
+				]
+			},
+			"properties": {
+				"Adresse": "Werdstrasse 72",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202496",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5560853916,
+					47.3818700796
+				]
+			},
+			"properties": {
+				"Adresse": "Im Schilf 7",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202498",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.52307918,
+					47.3711271862
+				]
+			},
+			"properties": {
+				"Adresse": "Seebahnstrasse 85",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202500",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5303175213,
+					47.3402146633
+				]
+			},
+			"properties": {
+				"Adresse": "Alte Kalchbühlstrasse 15",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202502",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5430189235,
+					47.3799774291
+				]
+			},
+			"properties": {
+				"Adresse": "Stampfenbachstrasse 40",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202504",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5563178859,
+					47.4105404518
+				]
+			},
+			"properties": {
+				"Adresse": "Wallisellenstrasse 96",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "201807",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5290689002,
+					47.3841190196
+				]
+			},
+			"properties": {
+				"Adresse": "Gasometerstrasse 26",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "201822",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4892440411,
+					47.3817606778
+				]
+			},
+			"properties": {
+				"Adresse": "Rautistrasse 67",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "26577",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4689606043,
+					47.3983583815
+				]
+			},
+			"properties": {
+				"Adresse": "Bernerstrasse 317",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "205011",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5158598653,
+					47.3930581966
+				]
+			},
+			"properties": {
+				"Adresse": "Hardturmstrasse 106",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205065",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5158682002,
+					47.3928152525
+				]
+			},
+			"properties": {
+				"Adresse": "Hardturmstrasse 106",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205067",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5194640767,
+					47.3356714166
+				]
+			},
+			"properties": {
+				"Adresse": "Leimbachstrasse 31",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202023",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5194633478,
+					47.3356354426
+				]
+			},
+			"properties": {
+				"Adresse": "Leimbachstrasse 31",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202029",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4859551298,
+					47.3962141833
+				]
+			},
+			"properties": {
+				"Adresse": "Bändlistrasse 34",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "25602",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5374320356,
+					47.3663270151
+				]
+			},
+			"properties": {
+				"Adresse": "Gotthardstrasse 6",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "26895",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4898670847,
+					47.3814713607
+				]
+			},
+			"properties": {
+				"Adresse": "Freilagerstrasse 88",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "26595",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5940652277,
+					47.4009107906
+				]
+			},
+			"properties": {
+				"Adresse": "Helen-Keller-Strasse 12a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "185227",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5358650186,
+					47.3826628264
+				]
+			},
+			"properties": {
+				"Adresse": "Ausstellungsstrasse 60",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205735",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5171665535,
+					47.3728362771
+				]
+			},
+			"properties": {
+				"Adresse": "Kalkbreitestrasse 78",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206128",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5234424449,
+					47.3676995452
+				]
+			},
+			"properties": {
+				"Adresse": "Manessestrasse 44",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206133",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4701420334,
+					47.3908610336
+				]
+			},
+			"properties": {
+				"Adresse": "Am Suteracher 46",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206142",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5636091504,
+					47.3785855601
+				]
+			},
+			"properties": {
+				"Adresse": "Zürichbergstrasse 114",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "157790",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4959924917,
+					47.3976838915
+				]
+			},
+			"properties": {
+				"Adresse": "Hardhof 9",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "206410",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5403341667,
+					47.3935870198
+				]
+			},
+			"properties": {
+				"Adresse": "Ilanzhofweg 6",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206097",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5351149213,
+					47.40100267
+				]
+			},
+			"properties": {
+				"Adresse": "Brunnenhofstrasse 9",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206098",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5123522004,
+					47.3534064593
+				]
+			},
+			"properties": {
+				"Adresse": "Uetlibergstrasse 301",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206140",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5049680245,
+					47.4217932032
+				]
+			},
+			"properties": {
+				"Adresse": "Bachmannweg 33",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205972",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5102254312,
+					47.4254511814
+				]
+			},
+			"properties": {
+				"Adresse": "Wolfswinkel 41",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205974",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5465463024,
+					47.3832503634
+				]
+			},
+			"properties": {
+				"Adresse": "Stapferstrasse 20",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "166192",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5268421164,
+					47.3562732483
+				]
+			},
+			"properties": {
+				"Adresse": "Rieterplatz 1",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "160546",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5139107172,
+					47.3750335367
+				]
+			},
+			"properties": {
+				"Adresse": "Zurlindenstrasse 222",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "154440",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5513787365,
+					47.3872908031
+				]
+			},
+			"properties": {
+				"Adresse": "Hadlaubstrasse 86a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "165037",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.523485719,
+					47.3677434038
+				]
+			},
+			"properties": {
+				"Adresse": "Manessestrasse 44",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "155877",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5380223181,
+					47.3950441746
+				]
+			},
+			"properties": {
+				"Adresse": "Zeppelinstrasse 31",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "159424",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4904730271,
+					47.4282557939
+				]
+			},
+			"properties": {
+				"Adresse": "Wehntalerstrasse 760",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "161135",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5460405522,
+					47.3818526468
+				]
+			},
+			"properties": {
+				"Adresse": "Nelkenstrasse 7a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "162855",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.6027848343,
+					47.3646442005
+				]
+			},
+			"properties": {
+				"Adresse": "Im Hau 50a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "167192",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5032032585,
+					47.3866969036
+				]
+			},
+			"properties": {
+				"Adresse": "Hohlstrasse 402",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "167558",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4894784057,
+					47.3923205621
+				]
+			},
+			"properties": {
+				"Adresse": "Vulkanplatz 33",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "172097",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5287119498,
+					47.3881616698
+				]
+			},
+			"properties": {
+				"Adresse": "Sihlquai 255",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "172107",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5128771784,
+					47.4205297975
+				]
+			},
+			"properties": {
+				"Adresse": "Fronwaldstrasse 94",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "173057",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5127983995,
+					47.4205665094
+				]
+			},
+			"properties": {
+				"Adresse": "Fronwaldstrasse 94",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "173059",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.512719439,
+					47.4205942279
+				]
+			},
+			"properties": {
+				"Adresse": "Fronwaldstrasse 94",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "173061",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5214515186,
+					47.38532408
+				]
+			},
+			"properties": {
+				"Adresse": "Neugasse 163",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "177564",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5938940091,
+					47.4009574782
+				]
+			},
+			"properties": {
+				"Adresse": "Helen-Keller-Strasse 12a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "185226",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5370341157,
+					47.3750037018
+				]
+			},
+			"properties": {
+				"Adresse": "Gerbergasse 4",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187068",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5709807019,
+					47.3819486589
+				]
+			},
+			"properties": {
+				"Adresse": "Zürichbergstrasse 175a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187070",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5710739385,
+					47.3818670313
+				]
+			},
+			"properties": {
+				"Adresse": "Zürichbergstrasse 175a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187072",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5696009612,
+					47.3823671911
+				]
+			},
+			"properties": {
+				"Adresse": null,
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187074",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5696721677,
+					47.3823719091
+				]
+			},
+			"properties": {
+				"Adresse": null,
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187075",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5693161879,
+					47.3823483003
+				]
+			},
+			"properties": {
+				"Adresse": null,
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187077",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5694585746,
+					47.3823577458
+				]
+			},
+			"properties": {
+				"Adresse": null,
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187079",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5695297678,
+					47.382362464
+				]
+			},
+			"properties": {
+				"Adresse": null,
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187080",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5687399463,
+					47.382269564
+				]
+			},
+			"properties": {
+				"Adresse": null,
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187082",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5688169077,
+					47.3822752517
+				]
+			},
+			"properties": {
+				"Adresse": null,
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187083",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5196304067,
+					47.3708729478
+				]
+			},
+			"properties": {
+				"Adresse": "Zweierstrasse 136",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187100",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5280197749,
+					47.3833636499
+				]
+			},
+			"properties": {
+				"Adresse": "Neugasse 80",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187102",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5400694422,
+					47.3868511062
+				]
+			},
+			"properties": {
+				"Adresse": "Beckenhofstrasse 59",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187836",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5419738392,
+					47.3964543975
+				]
+			},
+			"properties": {
+				"Adresse": "Irchelstrasse 12",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187838",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5495531736,
+					47.370692153
+				]
+			},
+			"properties": {
+				"Adresse": "Rämistrasse 38",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187840",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5276620476,
+					47.3497784193
+				]
+			},
+			"properties": {
+				"Adresse": "Thujastrasse 6",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187842",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5146677644,
+					47.3756740713
+				]
+			},
+			"properties": {
+				"Adresse": "Zentralstrasse 153",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187844",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5555648423,
+					47.4166873468
+				]
+			},
+			"properties": {
+				"Adresse": "Leutschenbachstrasse 50",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "187846",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5543971523,
+					47.3533833415
+				]
+			},
+			"properties": {
+				"Adresse": "Bellerivestrasse 182",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "188037",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5476973189,
+					47.3934048797
+				]
+			},
+			"properties": {
+				"Adresse": "Langensteinenstrasse 65",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "188039",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5185798314,
+					47.3887061472
+				]
+			},
+			"properties": {
+				"Adresse": "Schiffbaustrasse 6",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "188041",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.6014615754,
+					47.354994564
+				]
+			},
+			"properties": {
+				"Adresse": "Kienastenwiesweg 2",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "188285",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5489440699,
+					47.3768216885
+				]
+			},
+			"properties": {
+				"Adresse": "Rämistrasse 105",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "188741",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5489700584,
+					47.3767571774
+				]
+			},
+			"properties": {
+				"Adresse": "Rämistrasse 100",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "188743",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5263612573,
+					47.3880916959
+				]
+			},
+			"properties": {
+				"Adresse": "Limmatstrasse 257",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "189120",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.540286076,
+					47.3659493983
+				]
+			},
+			"properties": {
+				"Adresse": "Bürkliplatz 12",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191710",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5385477417,
+					47.3657197332
+				]
+			},
+			"properties": {
+				"Adresse": "Claridenstrasse 3",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191714",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5411203609,
+					47.375448811
+				]
+			},
+			"properties": {
+				"Adresse": "Bahnhofquai 3a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191721",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5274448867,
+					47.3389225827
+				]
+			},
+			"properties": {
+				"Adresse": "Balberstrasse 47",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191723",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5237353789,
+					47.3599958791
+				]
+			},
+			"properties": {
+				"Adresse": "Lessingstrasse 3",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191729",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.57197207,
+					47.4039010273
+				]
+			},
+			"properties": {
+				"Adresse": "Winterthurerstrasse 519",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191913",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5692314138,
+					47.4168438735
+				]
+			},
+			"properties": {
+				"Adresse": "Opfikonstrasse 176",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191915",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5696169916,
+					47.4084883922
+				]
+			},
+			"properties": {
+				"Adresse": "Luegislandstrasse 134",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191916",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5508507586,
+					47.4041548453
+				]
+			},
+			"properties": {
+				"Adresse": "Gorwiden 2",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191918",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5358494151,
+					47.3570873053
+				]
+			},
+			"properties": {
+				"Adresse": "Mythenquai 75",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191925",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5358478371,
+					47.3570106228
+				]
+			},
+			"properties": {
+				"Adresse": "Mythenquai 75",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191927",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5744365856,
+					47.3837805302
+				]
+			},
+			"properties": {
+				"Adresse": "Zürichbergstrasse 196",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191929",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.574237772,
+					47.3837734895
+				]
+			},
+			"properties": {
+				"Adresse": "Zürichbergstrasse 196",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191931",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5742638716,
+					47.3837552426
+				]
+			},
+			"properties": {
+				"Adresse": "Zürichbergstrasse 196",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191932",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5742767298,
+					47.3837371259
+				]
+			},
+			"properties": {
+				"Adresse": "Zürichbergstrasse 196",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191935",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5772848871,
+					47.3844360986
+				]
+			},
+			"properties": {
+				"Adresse": "Zürichbergstrasse 245",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191939",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5484609203,
+					47.4249158635
+				]
+			},
+			"properties": {
+				"Adresse": "Glatttalstrasse 38",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191943",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5417265093,
+					47.3692515507
+				]
+			},
+			"properties": {
+				"Adresse": "Stadthausquai 17",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191944",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5417285892,
+					47.3692808478
+				]
+			},
+			"properties": {
+				"Adresse": "Stadthausquai 17",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191946",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5441902137,
+					47.3682940211
+				]
+			},
+			"properties": {
+				"Adresse": "Limmatquai 7",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191948",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5343907268,
+					47.3728360995
+				]
+			},
+			"properties": {
+				"Adresse": "Löwenstrasse 1",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191950",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.517029667,
+					47.3769100377
+				]
+			},
+			"properties": {
+				"Adresse": "Karl-Bürkli-Strasse 11",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191952",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.537248978,
+					47.3935622137
+				]
+			},
+			"properties": {
+				"Adresse": "Rothstrasse 34",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191954",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5698782323,
+					47.3636471506
+				]
+			},
+			"properties": {
+				"Adresse": "Kluseggstrasse 17",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191956",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.547767517,
+					47.3614051166
+				]
+			},
+			"properties": {
+				"Adresse": "Seefeldquai 4",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191957",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5190781945,
+					47.4000654967
+				]
+			},
+			"properties": {
+				"Adresse": "Emil-Klöti-Strasse 16",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191959",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5301680083,
+					47.3936941012
+				]
+			},
+			"properties": {
+				"Adresse": "Rötelsteig 6",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191961",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5593397057,
+					47.35365189
+				]
+			},
+			"properties": {
+				"Adresse": "Wildbachstrasse 80",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191963",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5178051299,
+					47.3730898518
+				]
+			},
+			"properties": {
+				"Adresse": "Zentralstrasse 74",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191965",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5223094776,
+					47.3569958101
+				]
+			},
+			"properties": {
+				"Adresse": "Allmendstrasse 2",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "191967",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.544583572,
+					47.4072849832
+				]
+			},
+			"properties": {
+				"Adresse": "Regensbergstrasse 121",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192655",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5573858323,
+					47.4088925622
+				]
+			},
+			"properties": {
+				"Adresse": "Greifenseestrasse 50",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192658",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5392187312,
+					47.4231272936
+				]
+			},
+			"properties": {
+				"Adresse": "Birchstrasse 408",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192660",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5273158397,
+					47.3934183418
+				]
+			},
+			"properties": {
+				"Adresse": "Röschibachstrasse 63",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192661",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4857929553,
+					47.3846007804
+				]
+			},
+			"properties": {
+				"Adresse": "Zwyssigstrasse 2",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192663",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5574921982,
+					47.3582686048
+				]
+			},
+			"properties": {
+				"Adresse": "Mühlebachstrasse 137",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192665",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5747735294,
+					47.4033506351
+				]
+			},
+			"properties": {
+				"Adresse": "Stettbachstrasse 60",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192667",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5524093736,
+					47.3770019545
+				]
+			},
+			"properties": {
+				"Adresse": "Sternwartstrasse 14",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192669",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5676583619,
+					47.3605677992
+				]
+			},
+			"properties": {
+				"Adresse": "Fröbelstrasse 33a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192671",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.501805653,
+					47.3613956842
+				]
+			},
+			"properties": {
+				"Adresse": "Friesenberghalde 8",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192673",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5165422034,
+					47.3707798169
+				]
+			},
+			"properties": {
+				"Adresse": "Birmensdorferstrasse 198",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192675",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5099598457,
+					47.3778592543
+				]
+			},
+			"properties": {
+				"Adresse": "Hardaustrasse 2",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192677",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5456645524,
+					47.3846459181
+				]
+			},
+			"properties": {
+				"Adresse": "Stapferstrasse 35",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "192680",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5504018146,
+					47.3752677063
+				]
+			},
+			"properties": {
+				"Adresse": "Gloriastrasse 7",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "199219",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5486461711,
+					47.3787478487
+				]
+			},
+			"properties": {
+				"Adresse": "Universitätstrasse 6f",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "199275",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5632933453,
+					47.3486063896
+				]
+			},
+			"properties": {
+				"Adresse": "Seefeldstrasse 275",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "199318",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4882728389,
+					47.3776404914
+				]
+			},
+			"properties": {
+				"Adresse": "Else-Züblin-Strasse 40",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "200834",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5201996868,
+					47.3910972034
+				]
+			},
+			"properties": {
+				"Adresse": "Hardturmstrasse 5a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "200848",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5733206776,
+					47.3524162915
+				]
+			},
+			"properties": {
+				"Adresse": "Lengghalde 2",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "200851",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5431298966,
+					47.3811434233
+				]
+			},
+			"properties": {
+				"Adresse": "Sumatrastrasse 15",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "200853",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5718625924,
+					47.3576019789
+				]
+			},
+			"properties": {
+				"Adresse": "Forchstrasse 266",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "200909",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4965671842,
+					47.3659654404
+				]
+			},
+			"properties": {
+				"Adresse": "Birmensdorferstrasse 497d",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "200927",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5111903469,
+					47.407626438
+				]
+			},
+			"properties": {
+				"Adresse": "Hönggerbergring 64",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "200945",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.511157881,
+					47.4075815213
+				]
+			},
+			"properties": {
+				"Adresse": "Hönggerbergring 64",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "200946",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5056362633,
+					47.3558347999
+				]
+			},
+			"properties": {
+				"Adresse": "Bachtobelstrasse 225",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "200976",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4836258103,
+					47.4044795942
+				]
+			},
+			"properties": {
+				"Adresse": "Limmattalstrasse 371",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "200978",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5607336884,
+					47.414330714
+				]
+			},
+			"properties": {
+				"Adresse": "Hagenholzstrasse 106b",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "201048",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5641128467,
+					47.4152531569
+				]
+			},
+			"properties": {
+				"Adresse": "Hagenholzstrasse 116c",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "201056",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.547008045,
+					47.3763654452
+				]
+			},
+			"properties": {
+				"Adresse": "Leonhardstrasse 33",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "201062",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5538256167,
+					47.4108490955
+				]
+			},
+			"properties": {
+				"Adresse": "Wallisellenstrasse 49",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "201064",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5908513234,
+					47.4061477214
+				]
+			},
+			"properties": {
+				"Adresse": "Ueberlandstrasse 429",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "201102",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5508997384,
+					47.3784384329
+				]
+			},
+			"properties": {
+				"Adresse": "Frauenklinikstrasse 10",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "201221",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5023100689,
+					47.4010829267
+				]
+			},
+			"properties": {
+				"Adresse": "Limmattalstrasse 150",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "201285",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5160096473,
+					47.3989814398
+				]
+			},
+			"properties": {
+				"Adresse": "Emil-Klöti-Strasse 23",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "201375",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5158870804,
+					47.3930939231
+				]
+			},
+			"properties": {
+				"Adresse": "Hardturmstrasse 106",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "201512",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5290959356,
+					47.3841457497
+				]
+			},
+			"properties": {
+				"Adresse": "Gasometerstrasse 26",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "201821",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5194740262,
+					47.3355094096
+				]
+			},
+			"properties": {
+				"Adresse": "Leimbachstrasse 33",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "201828",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4990447588,
+					47.3655089847
+				]
+			},
+			"properties": {
+				"Adresse": "Marie-Heim-Vögtlin-Weg 60",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202321",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4848601757,
+					47.3874963094
+				]
+			},
+			"properties": {
+				"Adresse": "Spirgartenstrasse 5",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202323",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5414920896,
+					47.3953377409
+				]
+			},
+			"properties": {
+				"Adresse": "Stüssistrasse 87",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202465",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5416389328,
+					47.3852523549
+				]
+			},
+			"properties": {
+				"Adresse": "Kurvenstrasse 39",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202467",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5212307408,
+					47.3893184247
+				]
+			},
+			"properties": {
+				"Adresse": "Hardstrasse 301",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202469",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5212083269,
+					47.3892967857
+				]
+			},
+			"properties": {
+				"Adresse": "Hardstrasse 301",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202471",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5790544002,
+					47.3672690503
+				]
+			},
+			"properties": {
+				"Adresse": "Degenriedstrasse 135",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202472",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5466264736,
+					47.3741979824
+				]
+			},
+			"properties": {
+				"Adresse": "Hirschengraben 48",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202474",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5369185989,
+					47.3719301985
+				]
+			},
+			"properties": {
+				"Adresse": "Pelikanstrasse 10",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202476",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.549548937,
+					47.4103694815
+				]
+			},
+			"properties": {
+				"Adresse": "Thurgauerstrasse 7",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202478",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5362007397,
+					47.382326692
+				]
+			},
+			"properties": {
+				"Adresse": "Ausstellungsstrasse 41",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202480",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.536091669,
+					47.382405401
+				]
+			},
+			"properties": {
+				"Adresse": "Ausstellungsstrasse 41",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202482",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5282517236,
+					47.382486878
+				]
+			},
+			"properties": {
+				"Adresse": "Röntgenstrasse 16",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202484",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5229744632,
+					47.3772975681
+				]
+			},
+			"properties": {
+				"Adresse": "Stauffacherstrasse 141",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202491",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5164914508,
+					47.3809160598
+				]
+			},
+			"properties": {
+				"Adresse": "Ernastrasse 22",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202493",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5391106209,
+					47.3903269008
+				]
+			},
+			"properties": {
+				"Adresse": "Schaffhauserstrasse 32",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202495",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5600380066,
+					47.3755018742
+				]
+			},
+			"properties": {
+				"Adresse": "Bergstrasse 4",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202497",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5545861625,
+					47.3827751088
+				]
+			},
+			"properties": {
+				"Adresse": "Hadlaubstrasse 23",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202499",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5546607484,
+					47.3573717946
+				]
+			},
+			"properties": {
+				"Adresse": "Dahliastrasse 16",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202501",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5430315371,
+					47.3799547128
+				]
+			},
+			"properties": {
+				"Adresse": "Stampfenbachstrasse 40",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202503",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5765678883,
+					47.3514936766
+				]
+			},
+			"properties": {
+				"Adresse": "Witellikerstrasse 40a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202571",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5326421699,
+					47.3851470672
+				]
+			},
+			"properties": {
+				"Adresse": "Ausstellungsstrasse 104a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "202581",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5126583105,
+					47.3939155512
+				]
+			},
+			"properties": {
+				"Adresse": "Hardturmstrasse 130a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "203066",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5724456062,
+					47.3579965529
+				]
+			},
+			"properties": {
+				"Adresse": "Forchstrasse 269",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "203559",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5021816972,
+					47.3747540464
+				]
+			},
+			"properties": {
+				"Adresse": "Gutstrasse 172a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "203593",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5454656349,
+					47.3740221024
+				]
+			},
+			"properties": {
+				"Adresse": "Predigerplatz 33",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "203601",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4969852437,
+					47.366253807
+				]
+			},
+			"properties": {
+				"Adresse": "Birmensdorferstrasse 495a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "203851",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4745927142,
+					47.394431188
+				]
+			},
+			"properties": {
+				"Adresse": "Hermetschloostrasse 70",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "204108",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5358584897,
+					47.3775592103
+				]
+			},
+			"properties": {
+				"Adresse": "Sihlpostgasse 2",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "204956",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.57436951,
+					47.3542684817
+				]
+			},
+			"properties": {
+				"Adresse": "Lenggstrasse 76",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205850",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5743256122,
+					47.3542486382
+				]
+			},
+			"properties": {
+				"Adresse": "Lenggstrasse 76",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205851",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.536098528,
+					47.4097688992
+				]
+			},
+			"properties": {
+				"Adresse": "Regensbergstrasse 199",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205708",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4920972832,
+					47.3915435745
+				]
+			},
+			"properties": {
+				"Adresse": "Vulkanplatz 9",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "30132",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.585258307,
+					47.4006536454
+				]
+			},
+			"properties": {
+				"Adresse": "Dübendorfstrasse 217",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205565",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.498741671,
+					47.3754953859
+				]
+			},
+			"properties": {
+				"Adresse": "Sackzelg 27",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206445",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5734395651,
+					47.3532213777
+				]
+			},
+			"properties": {
+				"Adresse": "Lengghalde 1",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "25289",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.496946581,
+					47.3662377511
+				]
+			},
+			"properties": {
+				"Adresse": "Birmensdorferstrasse 497d",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206485",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5744891433,
+					47.3519252479
+				]
+			},
+			"properties": {
+				"Adresse": "Lengghalde 7",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206433",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5406327886,
+					47.3783641596
+				]
+			},
+			"properties": {
+				"Adresse": "Museumstrasse 1",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205730",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5629522961,
+					47.380513062
+				]
+			},
+			"properties": {
+				"Adresse": "Forsterstrasse 34",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206239",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5921839757,
+					47.399060691
+				]
+			},
+			"properties": {
+				"Adresse": "Mattenhof 1",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205566",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4953365983,
+					47.3819008365
+				]
+			},
+			"properties": {
+				"Adresse": "Flüelastrasse 29",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206201",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4945455541,
+					47.3825971168
+				]
+			},
+			"properties": {
+				"Adresse": "Flüelastrasse 28a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206487",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4757676902,
+					47.3822509119
+				]
+			},
+			"properties": {
+				"Adresse": "Friedhofstrasse 83",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "18898",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4757395245,
+					47.3822728697
+				]
+			},
+			"properties": {
+				"Adresse": "Friedhofstrasse 83",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "18899",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4757046544,
+					47.38229603
+				]
+			},
+			"properties": {
+				"Adresse": "Friedhofstrasse 83",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "18900",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.543880092,
+					47.3818399887
+				]
+			},
+			"properties": {
+				"Adresse": "Weinbergstrasse 58",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "1281",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5431360705,
+					47.381784035
+				]
+			},
+			"properties": {
+				"Adresse": "Sumatrastrasse 30a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "1282",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5275195838,
+					47.3933396851
+				]
+			},
+			"properties": {
+				"Adresse": "Röschibachstrasse 60",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "2884",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5276137603,
+					47.3933236985
+				]
+			},
+			"properties": {
+				"Adresse": "Röschibachstrasse 67",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "2885",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4840098176,
+					47.3853056678
+				]
+			},
+			"properties": {
+				"Adresse": "Eugen-Huber-Strasse 17",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "2887",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4894048752,
+					47.3907859427
+				]
+			},
+			"properties": {
+				"Adresse": "Hohlstrasse 559",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "2889",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4752479121,
+					47.3942435149
+				]
+			},
+			"properties": {
+				"Adresse": "Hermetschloostrasse 68",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "2890",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4753182458,
+					47.3942282401
+				]
+			},
+			"properties": {
+				"Adresse": "Hermetschloostrasse 68",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "2891",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4935943503,
+					47.389610936
+				]
+			},
+			"properties": {
+				"Adresse": "Hohlstrasse 532",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "19210",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4937724725,
+					47.3898880484
+				]
+			},
+			"properties": {
+				"Adresse": "Hohlstrasse 532",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "19223",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.523029133,
+					47.3925213727
+				]
+			},
+			"properties": {
+				"Adresse": "Wipkingerplatz 1a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "2267",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5161987494,
+					47.3862571214
+				]
+			},
+			"properties": {
+				"Adresse": "Zahnradstrasse 31",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "22083",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5193276996,
+					47.3355481098
+				]
+			},
+			"properties": {
+				"Adresse": "Leimbachstrasse 33",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "14401",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5193304146,
+					47.3360830108
+				]
+			},
+			"properties": {
+				"Adresse": "Leimbachstrasse 23",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "14414",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5003383705,
+					47.4252683525
+				]
+			},
+			"properties": {
+				"Adresse": "Mühlackerstrasse 102",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205973",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5476666763,
+					47.3837002902
+				]
+			},
+			"properties": {
+				"Adresse": "Stapferstrasse 64a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "28497",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5756574582,
+					47.3533801974
+				]
+			},
+			"properties": {
+				"Adresse": "Forchstrasse 336",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206454",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5402915279,
+					47.3742325267
+				]
+			},
+			"properties": {
+				"Adresse": "Lindenhofstrasse 19",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "1927",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5747157144,
+					47.3519746141
+				]
+			},
+			"properties": {
+				"Adresse": "Lengghalde 7",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206434",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5304212548,
+					47.3722189012
+				]
+			},
+			"properties": {
+				"Adresse": "Werdstrasse 23a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "5768",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5262309485,
+					47.4111780234
+				]
+			},
+			"properties": {
+				"Adresse": "Wehntalerstrasse 280",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "6789",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.573185896,
+					47.3500483207
+				]
+			},
+			"properties": {
+				"Adresse": "Enzenbühlstrasse 31",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "6807",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4940893458,
+					47.4086992265
+				]
+			},
+			"properties": {
+				"Adresse": "Michelstrasse 67",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "185435",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5302869943,
+					47.344516899
+				]
+			},
+			"properties": {
+				"Adresse": "Etzelstrasse 3",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "4168",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5119128461,
+					47.4173658932
+				]
+			},
+			"properties": {
+				"Adresse": "In Böden 53",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "4175",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4968906647,
+					47.3754943409
+				]
+			},
+			"properties": {
+				"Adresse": "Letzigraben 135",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "24979",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4970165379,
+					47.3754372591
+				]
+			},
+			"properties": {
+				"Adresse": "Langhagweg 4",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "24980",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5021159562,
+					47.3751690892
+				]
+			},
+			"properties": {
+				"Adresse": "Gutstrasse 180",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "24981",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5700229842,
+					47.3479078097
+				]
+			},
+			"properties": {
+				"Adresse": "Bleulerstrasse 76",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "3849",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4678976904,
+					47.3986859506
+				]
+			},
+			"properties": {
+				"Adresse": null,
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "202051",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4945238596,
+					47.3972579418
+				]
+			},
+			"properties": {
+				"Adresse": "Hardhof 14a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "197950",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4945940058,
+					47.397455191
+				]
+			},
+			"properties": {
+				"Adresse": "Hardhof 2a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "197956",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5260170012,
+					47.3365790392
+				]
+			},
+			"properties": {
+				"Adresse": "Marchwartstrasse 48",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206027",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5064676696,
+					47.3676598656
+				]
+			},
+			"properties": {
+				"Adresse": "Im Heuried 74",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206180",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5064548162,
+					47.3676808229
+				]
+			},
+			"properties": {
+				"Adresse": "Im Heuried 74",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206181",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5549222607,
+					47.3600612278
+				]
+			},
+			"properties": {
+				"Adresse": "Mühlebachstrasse 114",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "4803",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5549160788,
+					47.3600336804
+				]
+			},
+			"properties": {
+				"Adresse": "Mühlebachstrasse 114",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "4804",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5261679965,
+					47.3644404645
+				]
+			},
+			"properties": {
+				"Adresse": "Brandschenkestrasse 132",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "1295",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5261778923,
+					47.3644103833
+				]
+			},
+			"properties": {
+				"Adresse": "Brandschenkestrasse 132",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "1296",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5273625588,
+					47.3402791114
+				]
+			},
+			"properties": {
+				"Adresse": "Balberstrasse 16",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206032",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5516576154,
+					47.3729113369
+				]
+			},
+			"properties": {
+				"Adresse": "Zürichbergstrasse 10a",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "2256",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4971450311,
+					47.4257072737
+				]
+			},
+			"properties": {
+				"Adresse": "Mühlackerstrasse 199",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "6772",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4972157584,
+					47.4257030732
+				]
+			},
+			"properties": {
+				"Adresse": "Mühlackerstrasse 199",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "6773",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4920661908,
+					47.3915469882
+				]
+			},
+			"properties": {
+				"Adresse": "Vulkanplatz 9",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "21775",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5538885671,
+					47.3763025549
+				]
+			},
+			"properties": {
+				"Adresse": "Häldeliweg 8",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "6088",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5423113155,
+					47.3813608546
+				]
+			},
+			"properties": {
+				"Adresse": "Stampfenbachstrasse 68",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "10279",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4810322615,
+					47.4097160995
+				]
+			},
+			"properties": {
+				"Adresse": "Riedhofstrasse 376",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206056",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.4838113188,
+					47.3933862201
+				]
+			},
+			"properties": {
+				"Adresse": "Vulkanstrasse 108c",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "206250",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5570463169,
+					47.3685407607
+				]
+			},
+			"properties": {
+				"Adresse": "Freiestrasse 69",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "2266",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5306234476,
+					47.3411300538
+				]
+			},
+			"properties": {
+				"Adresse": "Albisstrasse 73",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "3226",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.553240494,
+					47.3540776117
+				]
+			},
+			"properties": {
+				"Adresse": "Hornbachstrasse 20",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "6813",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5020686229,
+					47.3786467557
+				]
+			},
+			"properties": {
+				"Adresse": "Brahmsstrasse 104",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "1283",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5450122382,
+					47.4189975673
+				]
+			},
+			"properties": {
+				"Adresse": "Bahnhaldenstrasse 15",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "7048",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5560720867,
+					47.3783155904
+				]
+			},
+			"properties": {
+				"Adresse": "Hochstrasse 65",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "11278",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5532104822,
+					47.3743685665
+				]
+			},
+			"properties": {
+				"Adresse": "Plattenstrasse 15",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "3548",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5532752853,
+					47.3744014986
+				]
+			},
+			"properties": {
+				"Adresse": "Plattenstrasse 15",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "3549",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5221419783,
+					47.3930413159
+				]
+			},
+			"properties": {
+				"Adresse": "Breitensteinstrasse 14",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "205443",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5576115639,
+					47.3718445266
+				]
+			},
+			"properties": {
+				"Adresse": "Steinwiesstrasse 77",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "206317",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5576402034,
+					47.3718208571
+				]
+			},
+			"properties": {
+				"Adresse": "Steinwiesstrasse 77",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "206316",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5326125767,
+					47.3992744707
+				]
+			},
+			"properties": {
+				"Adresse": "Hofwiesenstrasse 141",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "6751",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5207805662,
+					47.3988322068
+				]
+			},
+			"properties": {
+				"Adresse": "Tièchestrasse 99",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "24328",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5321526803,
+					47.3689622429
+				]
+			},
+			"properties": {
+				"Adresse": "Brandschenkestrasse 41",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "4812",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5438164515,
+					47.3886018564
+				]
+			},
+			"properties": {
+				"Adresse": "Scheuchzerstrasse 85b",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "0",
+				"objectid": "206096",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5232875204,
+					47.3883619097
+				]
+			},
+			"properties": {
+				"Adresse": "Heinrichstrasse 227",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "5441",
+				"orientierung": null
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					8.5233143065,
+					47.3883866475
+				]
+			},
+			"properties": {
+				"Adresse": "Heinrichstrasse 227",
+				"art": "Nur mit Geh-Behindertenausweis",
+				"azimut": null,
+				"distanz": null,
+				"Gebührenpflichtig": "1",
+				"objectid": "5442",
+				"orientierung": null
+			}
+		}
+	]
+}

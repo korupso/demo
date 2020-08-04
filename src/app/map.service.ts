@@ -1,6 +1,8 @@
 import { Injectable, ElementRef } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 
+import { Platform } from '@ionic/angular';
+
 import { UtilService } from './util.service';
 
 import markers from './markers.json';
@@ -36,7 +38,7 @@ export class MapService {
     color: string
   }[] = [];
 
-  platform = new H.service.Platform({
+  servicePlatform = new H.service.Platform({
     "apiKey": "wMf9ma7exbMTZgkYuj1alATsY2ae9fYC5dq9S2JeM04",
     "app_id": "qAMCTJGPeltVqBKe46Eh",
     "app_code": "c3REcMU3S-XYbmBR94s8wA"
@@ -46,17 +48,16 @@ export class MapService {
     "parking_garage"
   ];
 
-  constructor(private U: UtilService, private http: HttpClient) { }
+  constructor(private U: UtilService, private http: HttpClient, private platform: Platform) { }
 
   /**
    * This function is called, whenever the map needs a reset.
    */
   resetMap() {
-    console.log("test");
     var start = new Date().getTime();
     this.fetchCoords(coords => {
       this.userCoords = coords;
-      let defaultLayers = this.platform.createDefaultLayers();
+      let defaultLayers = this.servicePlatform.createDefaultLayers();
       this.map = new H.Map(
         this.mapElement.nativeElement,
         defaultLayers.vector.normal.map,
@@ -67,7 +68,6 @@ export class MapService {
       );
 
       this.fetchCoords(coords => {
-        console.log("fetched");
         if (this.U.deepCompare(this.userCoords, coords)) {
           this.userCoords = { ...coords };
           console.log(this.userCoords);
@@ -75,6 +75,8 @@ export class MapService {
       });
 
       var mapViewListener = mapEvent => {
+        console.log("mapEvent (updateVisibility)");
+        console.log(JSON.stringify(mapEvent));
         if (this.map.getZoom() >= 16) {
           this.updateVisibility(this.map.getViewModel().getLookAtData().bounds.getBoundingBox());
         }
@@ -82,6 +84,8 @@ export class MapService {
       this.map.addEventListener("mapviewchangeend", mapViewListener);
 
       var mapListener = mapEvent => {
+        console.log("mapEvent (parseData)");
+        console.log(JSON.stringify(mapEvent));
         this.map.removeEventListener("mapviewchangeend", mapListener);
         this.selectedMarkers.forEach(selectedMarker => {
           this.parseData(selectedMarker, layer => {
@@ -91,7 +95,7 @@ export class MapService {
       };
       this.map.addEventListener("mapviewchangeend", mapListener);
       this.ui = H.ui.UI.createDefault(this.map, defaultLayers);
-      this.router = this.platform.getRoutingService({}, 8);
+      this.router = this.servicePlatform.getRoutingService({}, 8);
       var mapEvents = new H.mapevents.MapEvents(this.map);
       var behavior = new H.mapevents.Behavior(mapEvents);
 
@@ -106,7 +110,7 @@ export class MapService {
       };
       this.mapStyle.addEventListener('change', changeListener);
     });
-    this.U.printToBody("resetMap", new Date().getTime() - start);
+    console.log("resetMap", new Date().getTime() - start);
   }
 
   route(origin: Coords, dest: Coords) {
@@ -158,7 +162,7 @@ export class MapService {
       }
     );
 
-    this.U.printToBody("route", new Date().getTime() - start);
+    console.log("route", new Date().getTime() - start);
   }
 
   /**
@@ -206,19 +210,19 @@ export class MapService {
           });
         });
         this.mapObjects.push({ name: selectedMarker, objects: reader.getParsedObjects()[0].getObjects() });
+        console.log("parseData", new Date().getTime() - start);
         cb(reader.getLayer());
       }
     };
     reader.addEventListener("statechange", geoListener);
     reader.parse();
-    this.U.printToBody("parseData", new Date().getTime() - start);
   }
 
   offsetCenter(geometry: Coords, offset: Coords) {
     var start = new Date().getTime();
     var geoScreenPercent = this.getGeoScreenPercent();
 
-    this.U.printToBody("offsetCenter", new Date().getTime() - start);
+    console.log("offsetCenter", new Date().getTime() - start);
     return new H.geo.Point(
       geometry.lat - geoScreenPercent.lat * offset.lat,
       geometry.lng - geoScreenPercent.lng * offset.lng
@@ -235,7 +239,7 @@ export class MapService {
     var start = new Date().getTime();
     var geoLow = this.map.screenToGeo(0, 0);
     var geoHigh = this.map.screenToGeo(window.innerWidth / 100, window.innerHeight / 100);
-    this.U.printToBody("getGeoScreenPercent", new Date().getTime() - start);
+    console.log("getGeoScreenPercent", new Date().getTime() - start);
     return { lat: geoHigh.lat - geoLow.lat, lng: geoHigh.lng - geoLow.lng };
   }
 
@@ -243,7 +247,7 @@ export class MapService {
     var start = new Date().getTime();
     var geoLow = this.map.screenToGeo(0, 0);
     var geoHigh = this.map.screenToGeo(window.innerWidth, window.innerHeight);
-    this.U.printToBody("getGeoScreenPixel", new Date().getTime() - start);
+    console.log("getGeoScreenPixel", new Date().getTime() - start);
     return { lat: (geoHigh.lat - geoLow.lat) / 1000, lng: (geoHigh.lng - geoLow.lng) / 1000 };
   }
 
@@ -292,7 +296,7 @@ export class MapService {
 
     html = html.slice(0, html.length - 4);
 
-    this.U.printToBody("infoToHTML", new Date().getTime() - start);
+    console.log("infoToHTML", new Date().getTime() - start);
     return html;
   }
 
@@ -303,7 +307,7 @@ export class MapService {
   updateVisibility = (bounds: any) => {
     var start = new Date().getTime();
     this.mapObjects.forEach(mapObject => mapObject.objects.forEach(obj => obj.setVisibility(bounds.containsPoint(obj.b))));
-    this.U.printToBody("updateVisibility", new Date().getTime() - start);
+    console.log("updateVisibility", new Date().getTime() - start);
   }
 
   /**
@@ -321,7 +325,7 @@ export class MapService {
       lng: pos.coords.longitude
     }));*/
     cb({ lat: 47.37666, lng: 8.5389 });
-    this.U.printToBody("fetchCoords", new Date().getTime() - start);
+    console.log("fetchCoords", new Date().getTime() - start);
   }
 
   /**
@@ -335,6 +339,6 @@ export class MapService {
       draw[draw["polygons"] ? "polygons" : "lines"].color = layer.color;
       this.mapStyle.mergeConfig(layerConfig);
     });
-    this.U.printToBody("markLayers", new Date().getTime() - start);
+    console.log("markLayers", new Date().getTime() - start);
   }
 }
