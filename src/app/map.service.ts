@@ -1,7 +1,6 @@
 import { Injectable, ElementRef } from '@angular/core';
-import { HttpClient } from '@angular/common/http';
 
-import { Platform } from '@ionic/angular';
+import { Geolocation } from '@ionic-native/geolocation/ngx';
 
 import { UtilService } from './util.service';
 
@@ -27,6 +26,8 @@ export class MapService {
     objects: any[]
   }[] = [];
 
+  defaultLayers: any;
+
   userCoords: Coords;
 
   router: any;
@@ -48,7 +49,7 @@ export class MapService {
     "parking_garage"
   ];
 
-  constructor(private U: UtilService, private http: HttpClient, private platform: Platform) { }
+  constructor(private U: UtilService, private geolocation: Geolocation) { }
 
   /**
    * This function is called, whenever the map needs a reset.
@@ -57,13 +58,16 @@ export class MapService {
     var start = new Date().getTime();
     this.fetchCoords(coords => {
       this.userCoords = coords;
-      let defaultLayers = this.servicePlatform.createDefaultLayers();
+      this.defaultLayers = this.servicePlatform.createDefaultLayers();
       this.map = new H.Map(
         this.mapElement.nativeElement,
-        defaultLayers.vector.normal.map,
+        this.defaultLayers.vector.normal.map,
         {
           zoom: 17,
-          center: { lat: coords.lat, lng: coords.lng }
+          center: {
+            lat: coords.lat,
+            lng: coords.lng
+          }
         }
       );
 
@@ -76,10 +80,8 @@ export class MapService {
 
       var mapViewListener = mapEvent => {
         console.log("mapEvent (updateVisibility)");
-        console.log(JSON.stringify(mapEvent));
-        if (this.map.getZoom() >= 16) {
-          this.updateVisibility(this.map.getViewModel().getLookAtData().bounds.getBoundingBox());
-        }
+        console.log(JSON.stringify(this.defaultLayers.vector));
+        this.updateVisibility(this.map.getViewModel().getLookAtData().bounds.getBoundingBox());
       };
       this.map.addEventListener("mapviewchangeend", mapViewListener);
 
@@ -94,7 +96,7 @@ export class MapService {
         });
       };
       this.map.addEventListener("mapviewchangeend", mapListener);
-      this.ui = H.ui.UI.createDefault(this.map, defaultLayers);
+      this.ui = H.ui.UI.createDefault(this.map, this.defaultLayers);
       this.router = this.servicePlatform.getRoutingService({}, 8);
       var mapEvents = new H.mapevents.MapEvents(this.map);
       var behavior = new H.mapevents.Behavior(mapEvents);
@@ -306,8 +308,8 @@ export class MapService {
    */
   updateVisibility = (bounds: any) => {
     var start = new Date().getTime();
-    this.mapObjects.forEach(mapObject => mapObject.objects.forEach(obj => obj.setVisibility(bounds.containsPoint(obj.b))));
-    console.log("updateVisibility", new Date().getTime() - start);
+    this.mapObjects.forEach(mapObject => mapObject.objects.forEach(obj => obj.setVisibility(bounds.containsPoint(obj.b) && this.map.getZoom() >= 16)));
+    console.log("updateVisibility", (new Date().getTime() - start).toString());
   }
 
   /**
@@ -316,14 +318,14 @@ export class MapService {
    */
   fetchCoords(cb: (coords: Coords) => void, watch = false) {
     var start = new Date().getTime();
-    /*if (navigator.geolocation) if (watch) navigator.geolocation.watchPosition(pos => cb({
+    /* if (this.geolocation) if (watch) this.geolocation.watchPosition().subscribe(pos => cb({
       lat: pos.coords.latitude,
       lng: pos.coords.longitude
     }));
-    else navigator.geolocation.getCurrentPosition(pos => cb({
+    else this.geolocation.getCurrentPosition().then(pos => cb({
       lat: pos.coords.latitude,
       lng: pos.coords.longitude
-    }));*/
+    })); */
     cb({ lat: 47.37666, lng: 8.5389 });
     console.log("fetchCoords", new Date().getTime() - start);
   }
